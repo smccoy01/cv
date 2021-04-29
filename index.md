@@ -17,7 +17,7 @@
     <tr>
 
       <td>
-        <img src="/Users/sylviamccoy/Desktop/Web Development/HTML Personal Site/SamiisCirclePic.png" width="175" alt="Samii profile pic">
+        <img src="SamiisCirclePic.png" width="175" alt="Samii profile pic">
       </td>
       <td>
         <h1>Samii Max</h1>
